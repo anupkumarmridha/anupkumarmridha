@@ -3,11 +3,6 @@
 <h1 align="center">Hi 👋, I'm Anup Kumar Mridha</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anupkumarmridha&label=Profile%20views&color=0e75b6&style=flat" alt="anupkumarmridha" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anupkumarmridha" alt="anupkumarmridha" /></a> </p>
-
 - 🔭 I’m currently working on **Spider R&D Club at NITT**
 
 - 🌱 I’m currently learning **Android Development**
@@ -17,6 +12,12 @@
 - 📫 How to reach me **anupkumarmridha.net@gmail.com**
 
 - ⚡ Fun fact **I'm Funny & Open Minded**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anupkumarmridha&label=Profile%20views&color=0e75b6&style=flat" alt="anupkumarmridha" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anupkumarmridha" alt="anupkumarmridha" /></a> </p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
