@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Spider R&D Club at NITT**
 
-- 🌱 I’m currently learning **Android Development**
+<!---- 🌱 I’m currently learning **Android Development**-->
 
 - 💬 Ask me about **Web Development, Backend Development**
 
