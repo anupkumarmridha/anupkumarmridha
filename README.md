@@ -4,7 +4,7 @@
 <!---<h1 align="center">Hi 👋, I'm Anup Kumar Mridha</h1>-->
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on **Spider R&D Club at NITT**
+- 🔭 I’m currently working on **Presidio Intern**
 
 <!---- 🌱 I’m currently learning **Android Development**-->
 
@@ -33,7 +33,7 @@
 
 <br/>
 <br/>
-<!---
+
 <a href="https://github.com/anupkumarmridha/github-readme-activity-graph"><img alt="Anup Kumar Mridha Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=anupkumarmridha&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
