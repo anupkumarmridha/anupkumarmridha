@@ -4,11 +4,9 @@
 <!---<h1 align="center">Hi 👋, I'm Anup Kumar Mridha</h1>-->
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on **Presidio Intern**
-
-<!---- 🌱 I’m currently learning **Android Development**-->
-
-- 💬 Ask me about **Web Development, Backend Development**
+- 🔭 I’m currently working on improving my coding skills.
+- 🌱 I’m learning new tools and technologies to expand my knowledge.
+- 💬 Ask me about coding, open-source, or anything tech-related.
 
 - 📫 How to reach me **anupkumarmridha.net@gmail.com**
 
